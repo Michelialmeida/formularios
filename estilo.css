@@ -4,7 +4,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-flow: column;
-    background-color: rgb(238, 203, 224);
+    background-color: rgb(228, 15, 0);
 }
 
 fieldset {
@@ -78,5 +78,5 @@ legend {
     text-decoration-line: underline;
     font-size: 30px;
     width: 90%;
-    border-color: rgb(230, 170, 190);
+    border-color: rgb(245, 52, 3);
 }
